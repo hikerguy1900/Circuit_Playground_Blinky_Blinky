@@ -85,15 +85,10 @@ download it to the Circuit Playground.
 
 ## Step 8
 Click the big Download button and remember where your computer
-downloaded the file to.
+downloaded the file to. Follow the instructions that pop-up to
+put the program onto your Circuit Playground Expresss.
 
-## Step 9
-Plug in your circuit playground to your computer. The circuit 
-playground should show up as a new driver named "CPLAY".
-
-## Step 10
-Drag the file you downloaded in step 8 to the "CPLAY" drive.
-
+## Finish
 
 > Open this page at [https://hikerguy1900.github.io/circuit_playground_blinky_blinky/](https://hikerguy1900.github.io/circuit_playground_blinky_blinky/)
 
