@@ -39,7 +39,7 @@ Change the pause time from 100 ms to 2 seconds (2000 ms).
         pause(2000)
     })
 ```
-## Step 3
+## Step 4
 Get at ``||light.clear()||`` block from ``||light:light||``
 and place it after the pause block.
 
@@ -52,7 +52,7 @@ and place it after the pause block.
         light.clear()
     })
 ```
-## Step 4
+## Step 5
 Drag a ``||loops:pause||`` block from ``||loops:Loops||`` and
 place it after your ``||light.clear()||`` block. Next change
 the pause time from 100 ms to 2 second (2000 ms).
@@ -67,23 +67,23 @@ the pause time from 100 ms to 2 second (2000 ms).
         pause(2000)
     })
 ```
-## Step 5
+## Step 6
 To the right you should see your lights blinking. This is our
 simulator. Use the left most button to stop and start the
 simulator. Give it a try.
 
-## Step 6
+## Step 7
 Running your program in the simulator is a great way to test it.
 We can even use the simulator to see which block is running. To do 
 this enable Slow-Mo mode by click on the Snail icon below the
 Circuit Playground picture. The yellow outline shows you which
 block of your programming is active.
 
-## Step 7
+## Step 8
 Now that we've seen our program working in the simulator let's
 download it to the Circuit Playground.
 
-## Step 8
+## Step 9
 Click the big Download button and remember where your computer
 downloaded the file to. Follow the instructions that pop-up to
 put the program onto your Circuit Playground Expresss.
