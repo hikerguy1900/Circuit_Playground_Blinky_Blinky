@@ -1,6 +1,6 @@
 {
-    "name": "December Tutorial Source",
-    "description": "",
+    "name": "Blinky Blinky",
+    "description": "A basic tutorial for MakeCode and Circuit Playground.",
     "dependencies": {
         "circuit-playground": "*"
     },
@@ -15,5 +15,5 @@
     "supportedTargets": [
         "adafruit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
