@@ -1,6 +1,6 @@
 # Blinky Blinky
 
-## Introduction @fullscreen
+## Introduction
 Let's program! This tutorial will guide you through creating
 a program for the Circuit Playground Express. The tutorial was
 written for parents and children. Once you've finished this
@@ -9,8 +9,8 @@ own programs. To get started click "Next" to the right.
 
 ## Step 1
 From the ``||light:Light||`` category on the left, get a
-``||light.showRing()||`` block. Drag it inside of the
-``||loops.forever()||`` block that is already in your 
+``||light.showRing||`` block. Drag it inside of the
+``||loops.forever||`` block that is already in your 
 workspace.
 ```blocks
     forever(function () {
@@ -23,7 +23,7 @@ workspace.
 ## Step 2
 From the ``||loops:Loops||`` category, get a
 ``||loops:pause||`` block. Put it after the
-``||light.showRing()||`` block.
+``||light.showRing||`` block.
 ```blocks
     forever(function () {
         light.showRing(
@@ -43,8 +43,8 @@ Change the pause time from 100 ms to 2 seconds (2000 ms).
     })
 ```
 ## Step 4
-From the ``||light:light||`` category, get at
-``||light.clear()||`` block. Place it after the
+From the ``||light:light||`` category, get a
+``||light.clear||`` block. Place it after the
 pause block.
 ```blocks
     forever(function () {
@@ -58,7 +58,7 @@ pause block.
 ## Step 5
 From the ``||loops:Loops||`` category, drag a
 ``||loops:pause||`` block  and place it after your
-``||light.clear()||`` block. Next change the pause
+``||light.clear||`` block. Next change the pause
 time from 100 ms to 2 second (2000 ms).
 ```blocks
     forever(function () {
@@ -97,3 +97,6 @@ downloaded the file to. Follow the instructions that pop-up to
 put the program onto your Circuit Playground Expresss.
 
 ## Finish
+You did it! You've made, simulated, and downloaded your first
+program. Nice work! Once you click finish you'll get full 
+access to all of the Circuit Playground Express blocks. 
