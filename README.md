@@ -83,12 +83,12 @@ starts the simulator. Give it a try.
 
 ## Step 8
 We can even use the simulator to see which block is running.
-To do this enable, "Slow-Mo", mode by click on the Snail icon
-The yellow outline shows you which block of your programming
-is active.
+To do this enable, "Slow-Mo", mode by clicking on the Snail
+icon. The yellow outline shows you which block of your
+programming is active.
 
 ## Step 9
-Now that we've seen your program working in the simulator let's
+Now that you've seen your program working in the simulator let's
 download it to the Circuit Playground Express.
 
 ## Step 10
@@ -99,4 +99,6 @@ put the program onto your Circuit Playground Expresss.
 ## Finish
 You did it! You've made, simulated, and downloaded your first
 program. Nice work! Once you click finish you'll get full 
-access to all of the Circuit Playground Express blocks. 
+access to all of the Circuit Playground Express blocks. Click
+the, "Home", button in the upper left hand corner of your screen
+to go to a list of your projects and other tutorials.
