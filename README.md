@@ -8,8 +8,10 @@ tutorial I hope you feel confident to experiment with your
 own programs. To get started click "Next" to the right.
 
 ## Step 1
-Get a ``||light.showRing()||`` block from ``||light:Light||``
-and place it inside of the ``||loops.forever()||`` block. 
+From the ``||light:Light||`` category on the left, get a
+``||light.showRing()||`` block. Drag it inside of the
+``||loops.forever()||`` block that is already in your 
+workspace.
 ```blocks
     forever(function () {
         light.showRing(
@@ -19,8 +21,9 @@ and place it inside of the ``||loops.forever()||`` block.
 ```
 
 ## Step 2
-Drag a ``||loops:pause||`` block from ``||loops:Loops||`` and
-place it after your ``||light.showRing()||`` block.
+From the ``||loops:Loops||`` category, get a
+``||loops:pause||`` block. Put it after the
+``||light.showRing()||`` block.
 ```blocks
     forever(function () {
         light.showRing(
@@ -40,9 +43,9 @@ Change the pause time from 100 ms to 2 seconds (2000 ms).
     })
 ```
 ## Step 4
-Get at ``||light.clear()||`` block from ``||light:light||``
-and place it after the pause block.
-
+From the ``||light:light||`` category, get at
+``||light.clear()||`` block. Place it after the
+pause block.
 ```blocks
     forever(function () {
         light.showRing(
@@ -53,10 +56,10 @@ and place it after the pause block.
     })
 ```
 ## Step 5
-Drag a ``||loops:pause||`` block from ``||loops:Loops||`` and
-place it after your ``||light.clear()||`` block. Next change
-the pause time from 100 ms to 2 second (2000 ms).
-
+From the ``||loops:Loops||`` category, drag a
+``||loops:pause||`` block  and place it after your
+``||light.clear()||`` block. Next change the pause
+time from 100 ms to 2 second (2000 ms).
 ```blocks
     forever(function () {
         light.showRing(
@@ -68,22 +71,27 @@ the pause time from 100 ms to 2 second (2000 ms).
     })
 ```
 ## Step 6
-To the right you should see your lights blinking. This is our
-simulator. Use the left most button to stop and start the
-simulator. Give it a try.
+To the right you should see a picture of a Circuit Playground
+Express. The lights should be blinking just as your program
+instructed them to. This is called a simulator. Running your
+program in the simulator is a great way to test it.
 
 ## Step 7
-Running your program in the simulator is a great way to test it.
-We can even use the simulator to see which block is running. To do 
-this enable Slow-Mo mode by click on the Snail icon below the
-Circuit Playground picture. The yellow outline shows you which
-block of your programming is active.
+Below the picture of the Circuit Playground Express
+is a row of gray buttons. The left most button stops or
+starts the simulator. Give it a try.
 
 ## Step 8
-Now that we've seen our program working in the simulator let's
-download it to the Circuit Playground.
+We can even use the simulator to see which block is running.
+To do this enable, "Slow-Mo", mode by click on the Snail icon
+The yellow outline shows you which block of your programming
+is active.
 
 ## Step 9
+Now that we've seen your program working in the simulator let's
+download it to the Circuit Playground Express.
+
+## Step 10
 Click the big Download button and remember where your computer
 downloaded the file to. Follow the instructions that pop-up to
 put the program onto your Circuit Playground Expresss.
