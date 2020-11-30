@@ -26,6 +26,8 @@ For a hint, click on the picture of the owl to the left.
 From the ``||loops:Loops||`` category, get a
 ``||loops:pause||`` block. Put it after the
 ``||light.showRing||`` block.
+
+The owl to the left is always there to help you.
 ```blocks
     forever(function () {
         light.showRing(
