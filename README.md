@@ -11,7 +11,8 @@ own programs. To get started click "Next" to the right.
 From the ``||light:Light||`` category on the left, get a
 ``||light.showRing||`` block. Drag it inside of the
 ``||loops.forever||`` block that is already in your 
-workspace.
+workspace. For a hint, click on the picture of the owl to
+the left.
 ```blocks
     forever(function () {
         light.showRing(
